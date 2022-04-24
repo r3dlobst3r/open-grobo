@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2892 878 12.7 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00a7ce;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_65_7" data-name="Symbol 65 – 7" transform="translate(2678 644)">
+    <circle id="Ellipse_248" data-name="Ellipse 248" class="cls-1" cx="6" cy="6" r="6" transform="translate(214 234)"/>
+    <path id="Path_1051" data-name="Path 1051" class="cls-2" d="M3.6,5.8,5.8,8.2l5.9-6.6" transform="translate(214 234)"/>
+  </g>
+</svg>

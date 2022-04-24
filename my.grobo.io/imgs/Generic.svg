@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1394 1305 103.484 97.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9ed36a;
+      }
+
+      .cls-2 {
+        fill: #8ac054;
+      }
+    </style>
+  </defs>
+  <g id="Generic" transform="translate(1258 953)">
+    <g id="Group_373" data-name="Group 373" transform="translate(135.998 352)">
+      <circle id="Ellipse_246" data-name="Ellipse 246" class="cls-1" cx="5.1" cy="5.1" r="5.1" transform="translate(28.953 76.604) rotate(-45)"/>
+    </g>
+    <g id="Group_374" data-name="Group 374" transform="translate(135.998 352)">
+      <path id="Path_1045" data-name="Path 1045" class="cls-2" d="M32.6,80.3a5.029,5.029,0,0,1-.9-5.9,5.063,5.063,0,0,0,1.4,4.5,5.191,5.191,0,0,0,7.3,0,6.42,6.42,0,0,0,1-1.3A6.187,6.187,0,0,1,40,80.4,5.409,5.409,0,0,1,32.6,80.3Z"/>
+    </g>
+    <g id="Group_375" data-name="Group 375" transform="translate(135.998 352)">
+      <path id="Path_1046" data-name="Path 1046" class="cls-2" d="M52.1,27.6C37.9,13,9.9,12,2.1,12H.1S-2.1,47.4,14.4,64.4a26.441,26.441,0,0,0,37.3.4h0A26.255,26.255,0,0,0,52.1,27.6Z"/>
+    </g>
+    <g id="Group_376" data-name="Group 376" transform="translate(135.998 352)">
+      <path id="Path_1047" data-name="Path 1047" class="cls-1" d="M37.9,49.5a1.8,1.8,0,0,1-1.5-.7,103.2,103.2,0,0,0-15.1-14,2,2,0,0,1,2.4-3.2A105.132,105.132,0,0,1,39.3,46.2a2.029,2.029,0,0,1-.2,2.8A1.248,1.248,0,0,1,37.9,49.5Z"/>
+    </g>
+    <g id="Group_377" data-name="Group 377" transform="translate(135.998 352)">
+      <path id="Path_1048" data-name="Path 1048" class="cls-1" d="M101.7,0S57.1,3.5,38.8,27.2a33.172,33.172,0,0,0,6.1,46.6h0a33.188,33.188,0,0,0,46.6-6.1C109.8,44,101.7,0,101.7,0Z"/>
+    </g>
+    <g id="Group_378" data-name="Group 378" transform="translate(135.998 352)">
+      <path id="Path_1049" data-name="Path 1049" class="cls-2" d="M38.9,97.3a2.006,2.006,0,0,1-2-2c0-19.6,13.5-42.7,36.9-63.5a1.985,1.985,0,0,1,2.6,3c-22.6,20-35.6,42.1-35.6,60.5A1.864,1.864,0,0,1,38.9,97.3Z"/>
+    </g>
+    <g id="Group_379" data-name="Group 379" transform="translate(135.998 352)">
+      <circle id="Ellipse_247" data-name="Ellipse 247" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(40.479 79.606) rotate(-45)"/>
+    </g>
+    <g id="Group_380" data-name="Group 380" transform="translate(135.998 352)">
+      <path id="Path_1050" data-name="Path 1050" class="cls-2" d="M43,82a3.352,3.352,0,0,1-.6-4,3.5,3.5,0,0,0,5.9,3.1,2.361,2.361,0,0,0,.6-.9,2.968,2.968,0,0,1-1,1.9A3.47,3.47,0,0,1,43,82Z"/>
+    </g>
+  </g>
+</svg>
